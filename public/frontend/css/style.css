@@ -1,0 +1,9 @@
+.navbar-light .navbar-nav .active>.nav-link{
+    color: #fff;
+    background-color: #1d68a7;
+    font-weight: bold;
+}
+.paginate-style{
+    width: 200px;
+    margin: 0 auto;
+}
